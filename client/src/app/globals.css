@@ -4,16 +4,15 @@
 
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 13, 34, 74;
-  --background-end-rgb: 5, 43, 117;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 13, 34, 74;
-    --background-end-rgb:  5, 43, 117;
-    /* amarillo Monte Sinaí 189, 176, 34 */
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
   }
 }
 

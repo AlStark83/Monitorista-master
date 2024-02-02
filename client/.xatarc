@@ -1,6 +1,0 @@
-{
-  "databaseURL": "https://Alberto-Guerrero-Covarrubias-s-workspace-rl3q97.us-east-1.xata.sh/db/CDN-MS-monitoreoDB",
-  "codegen": {
-    "output": "src/xata.ts"
-  }
-}

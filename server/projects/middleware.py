@@ -6,5 +6,5 @@ class CorsMiddleware:
 
     def __call__(self, request):
         response = self.get_response(request)
-        response["Access-Control-Allow-Origin"] = "https://example.com"
+        response["Access-Control-Allow-Origin"] = "*"
         return response
