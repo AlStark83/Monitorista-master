@@ -1,0 +1,11 @@
+{
+  "id": "mig_cmtc1i5jvnd4rneukqf0",
+  "checksum": "1:172341ef25f0222df4d0a9d3e93db04c9848582b6065fa33cf38e383d5ec44df",
+  "operations": [
+    {
+      "addTable": {
+        "table": "incidencia"
+      }
+    }
+  ]
+}

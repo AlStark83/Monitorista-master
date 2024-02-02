@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmtc1stjvnd4rneukqg0",
+  "parentID": "mig_cmtc1i5jvnd4rneukqf0",
+  "checksum": "1:4d35e03d1e8418ebd03339df26ea4e36c4f6e9511e260291b4790dc3b8c1b415",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Dia",
+          "type": "datetime"
+        },
+        "table": "incidencia"
+      }
+    }
+  ]
+}

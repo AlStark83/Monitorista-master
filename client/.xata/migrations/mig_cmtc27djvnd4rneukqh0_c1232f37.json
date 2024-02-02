@@ -1,0 +1,16 @@
+{
+  "id": "mig_cmtc27djvnd4rneukqh0",
+  "parentID": "mig_cmtc1stjvnd4rneukqg0",
+  "checksum": "1:c1232f374e53dcc1e239e4acce34e92afbb6f68f17a03af96cf8c5af91d06185",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "institucion",
+          "type": "multiple"
+        },
+        "table": "incidencia"
+      }
+    }
+  ]
+}

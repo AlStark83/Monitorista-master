@@ -1,0 +1,18 @@
+{
+  "id": "mig_cmtc3tab02mtt02moj90",
+  "parentID": "mig_cmtc3idjvnd4rneukqj0",
+  "checksum": "1:6b86f2586dc47787d6e9b2c92b2bc2c6999974468db5706ad237d66fca03221f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "descripcion",
+          "type": "text",
+          "notNull": true,
+          "defaultValue": "Describe la situación"
+        },
+        "table": "incidencia"
+      }
+    }
+  ]
+}
